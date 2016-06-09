@@ -20,7 +20,7 @@
 	 <preference name="android-installLocation"     value="auto" />
 
     <author href="https://build.phonegap.com" email="support@phonegap.com">
-       Rodrigo Martinez Peña
+      MARIANA CAÑETE MENDEZ
     </author>
 
 <gap:plugin name="org.apache.cordova.device" version="0.2.12" />
